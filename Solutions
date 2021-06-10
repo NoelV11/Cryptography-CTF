@@ -1,0 +1,32 @@
+                                                                     Solutions to the CTF
+                                                                     
+                                                                  Steps to conquer Round 1:
+
+a)Unlocking Key.txt.gpg
+Command-gpg --batch --passphrase Team2Wins100% -d Key.txt.gpg
+
+b)Unlocking CTF.txt.gpg
+Command-gpg --batch --passphrase PwnRound1 -d CTF.txt.gpg
+
+Upon successful decryption,the player can get the clues to be used for the next round of challenges
+
+
+                                                                          Round 2
+                                                                            
+Use RSA Algorithm with 4096 bits Public and Private key provided as the separate password protected file
+
+
+                                                                          Round 3
+                                                                           
+ Use ROT13 to decrypt the text
+ 
+                 
+                                                                           Round 4
+
+Use Vigenere Cipher with key as LOCKS to decrypt the text
+
+
+                                                                           Round 5
+                                                                           
+                                    
+Use Ceaser Cipher with a shift of 7 to encrypt the text
