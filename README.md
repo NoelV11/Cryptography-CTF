@@ -4,7 +4,7 @@ This is  a CTF designed around the subject of Cryptography.Anyone with little to
 
 The CTF is created using concepts from assymetric/two -way encryption. to your basic encryption techniques  
 
-It helps toe expose the player to the various possibilities of hashing and encryption methods to make transmission of messages,secure
+It helps to expose the player to the various possibilities of hashing and encryption methods, to make transmission of messages,secure
 ## Motivation for creation
 
 What I aim for,is that the player should emerge more knowledgeable and familiar about cryptography,after playing this fun CTF.
